@@ -2,6 +2,8 @@
 
 Your weekly homework assignments during JS2 and JS3 will be replaced by weekly deliveries for **one continuous project**. <br/>At the end of JS3, you will have built an actual app, using your newly gained knowledge and coding skills!
 
+![](/assets/project-flow.png)
+
 <br/>
 
 # WHY
@@ -21,7 +23,9 @@ It is indeed a good thing, at least for these main reasons:
 Your weekly workflow and homework submission will stay essentially very much the same. If anything, the scope of each weekly delivery will most probably be notably smaller than any single homework has been so far.
 
 <br/>
-You will pick a project idea and will have specific tasks for each week to deliver. Those tasks are provided in your chosen project description. The tasks are designed to make you practise the main learning points throughout the 2 modules:
+You will pick a project idea (see the "projects" folder) and will have specific tasks for each week to deliver. Those tasks are provided in your chosen project description. The tasks are designed to make you practise the main learning points throughout the 2 modules:
+
+<br/>
 
 `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
@@ -37,9 +41,8 @@ You will pick a project idea and will have specific tasks for each week to deliv
 
 <br/>
 
-So, the flow, in broad strokes, will be like this:
+You will work on your project repository for JS2 and JS3 (not the central homework repository) and you will submit the weekly task in the usual way by creating a Pull Request.
 
-- You work on your project repository (not the central homework repository);
-- You submit the weekly task in the usual way - create a new branch (same branch naming convention as before), push your code, and create a pull request - all the same as it has been so far.
+During JS2 and JS3, refer to the relevant [homework submission guide](/guides/weekly-submission-guide.md).
 
-The main difference is that you are on a different repository and that you will merge the PR after implementing the review-based improvements, but all the technical steps are the same and you can refer to the same old guide!
+The main difference is that you will be on a different repository and that you will merge the PR after implementing the review-based improvements, while all the technical steps are the same as always.
