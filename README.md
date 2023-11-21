@@ -26,6 +26,7 @@ Your weekly workflow and homework submission will stay essentially very much the
 You will pick a project idea (see the "projects" folder) and will have specific tasks for each week to deliver. Those tasks are provided in your chosen project description. The tasks are designed to make you practise the main learning points throughout the 2 modules:
 
 <br/>
+<br/>
 
 `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
