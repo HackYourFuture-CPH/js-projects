@@ -1,6 +1,6 @@
 # WHAT
 
-During the JS2 and JS3 modules you will be working on a project instead of your weekly homework assignments. Each week you will be required to add new features to your project. By the end of JS3, you will have built an actual app using your newly gained knowledge and coding skills!
+During the JS2 and JS3 modules, you will be working on a project instead of your weekly homework assignments. Each week, you will be required to add new features to your project. By the end of JS3, you will have built an actual app using your newly gained knowledge and coding skills!
 <br/>
 
 ![](/assets/project-flow.png)
@@ -9,12 +9,12 @@ During the JS2 and JS3 modules you will be working on a project instead of your 
 
 # WHY
 
-We're doing this for 4 main reasons:
+We're doing this for four main reasons:
 
-- You will gain experience and an understanding of what it's like to work on **one continous project**, instead of switching contexts with each new homework assignment.
-- You will apply your learnings every week and understand how each new method can be implemented into an actual product.
-- You will build a solid project for your portfolio that you can showcase on your CV and in your future tech interviews!
-- You will gain experience presenting your project and your code in a 'mini-tech-interview' at the end of JS3.
+- You will gain experience and an understanding of what it's like to work on **one continuous project**, instead of switching contexts with each new homework assignment.
+- You will apply what you learned every week and understand how each new method can be implemented into an actual product.
+- You will build a solid project for your portfolio that you can showcase on your CV and in future tech interviews!
+- You will gain experience presenting your project and code in a 'mini-tech interview' at the end of JS3.
 
 <br/>
 
@@ -40,7 +40,7 @@ First, you will pick a project idea (see the "projects" folder). Each week, you 
 
 <br/>
 
-You will work in your project repository for JS2 and JS3 (not the central homework repository!) and you will submit the weekly task in the usual way by creating a Pull Request.
+You will work in your project repository for JS2 and JS3 (not the central homework repository!), and you will submit the weekly task in the usual way by creating a Pull Request.
 
 During JS2 and JS3, refer to the relevant [homework submission guide](/guides/weekly-submission-guide.md).
 
