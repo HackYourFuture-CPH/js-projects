@@ -25,8 +25,8 @@ It is expected that your app will have at least these features and functionality
 - create a form to insert a new currency rate.
 
 - implement one of the two (or both!)
-<br/>
-a.
+  <br/>
+  a.
 
 b.
 
@@ -47,8 +47,8 @@ b.
 
 - implement a timeout to open or close the market.
 - implement one of the two (or both):
-<br/>
-a.
+  <br/>
+  a.
 
 b.
 
@@ -75,9 +75,14 @@ b.
 
 ### `JS3 week3` - Classes, Promises advanced
 
-- rest, revise, finish and brush up your project, prepare to present and explain it
-- optionally, make improvements or add additional functionality
+- [ ] rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
+- [ ] make improvements to the style or functionality or add additional functionality.
 
 ---
+
+<br/>
+<br/>
+
+## Project completion checklist ✅
 
 // TODO: add an "am I done, is it working?" checklist

@@ -49,14 +49,21 @@ You are provided with an array of recipe objects, that have at least an ID, a ti
 ### `JS3 week2` - Promises, Async/Await
 
 - you used promise chaining last week - now rewrite the fetch in the "async await" approach.
-  
+
 // TODO: more?
 
 ---
 
 ### `JS3 week3` - Classes, Promises advanced
 
-- rest, revise, finish, and brush up your project, prepare to present and explain it.
-- optionally, make improvements or add additional functionality.
+- [ ] rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
+- [ ] make improvements to the style or functionality or add additional functionality.
+
+---
+
+<br/>
+<br/>
+
+## Project completion checklist ✅
 
 // TODO: add an "am I done, is it working?" checklist
