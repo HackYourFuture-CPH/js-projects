@@ -23,8 +23,9 @@ It is expected that your app will have at least these features and functionality
 ### `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
 - Create a form to insert a new currency rate.
+- Create a form to covert an amount of money from `x` currency to `y` based on the rates provided in the array
 
-- Implement one of the two (or both!)
+// TODO: describe the task to implement currency conversion. 
   <br/>
   a. Insert a brand new currency rate from `a` to `b`
   b. Update existing currency conversion with a new rate
@@ -60,8 +61,8 @@ It is expected that your app will have at least these features and functionality
 
 ### `JS3 week2` - Promises, Async/Await
 
-- You used promise chaining last week - now rewrite the fetch in the "async await" approach.
-
+- [ ] You used promise chaining last week - now rewrite the fetch in the "async await" approach
+- [ ] Testing. Implement a test to ensure that the application will work as expected after the refactoring
 // TODO: more?
 
 ---
@@ -70,7 +71,7 @@ It is expected that your app will have at least these features and functionality
 
 - [ ] Rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
 - [ ] Make improvements to the style or functionality or add additional functionality.
-- [ ] Testing
+
 ---
 
 <br/>
