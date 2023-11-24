@@ -5,14 +5,14 @@
 You started working in a new cool fintech startup, and your first task is to build a simple currency converter app.
 It is expected that your app will have at least these features and functionality:
 
-- insert a new rate
-- list currencies and rates
-- search currencies
-- set a rate to be alerted when a currency reaches that rate
-- the ‘most moving’ currency rate
-- timeout for market open/close
-- call currency API
-- deposits, crypto, crazy
+- Insert a new rate
+- List currencies and rates
+- Search currencies
+- Set a rate to be alerted when a currency reaches that rate
+- The ‘most moving’ currency rate
+- Timeout for the market open/close
+- Call the currency API to receive the rates dynamically
+- Deposit money into the waller and move money between different wallets
 
 // TODO: finish / edit the storyline and general reqs
 <br/>
@@ -22,22 +22,20 @@ It is expected that your app will have at least these features and functionality
 
 ### `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
-- create a form to insert a new currency rate.
+- Create a form to insert a new currency rate.
+- Create a form to covert an amount of money from `x` currency to `y` based on the rates provided in the array
 
-- implement one of the two (or both!)
+// TODO: describe the task to implement currency conversion. 
   <br/>
-  a.
-
-b.
-
-- optional bonus:
+  a. Insert a brand new currency rate from `a` to `b`
+  b. Update existing currency conversion with a new rate
 
 ---
 
 ### `JS2 week2` - Array functions, Arrow function
 
-- traverse through an array of the currency rate objects, and display them in a grid of items containing all the relevant details.
-- implement a function to find a specific currency rate, searching by the abbreviation.
+- List: Traverse through an array of the currency rate objects, and display them in a grid of items containing all the relevant details
+- Implement a function to find a specific currency rate, searching by the currency `from` or `to`
 
 - optional bonus:
 
@@ -45,38 +43,34 @@ b.
 
 ### `JS2 week3` - Callback function, Asynchronicity, Scope
 
-- implement a timeout to open or close the market.
-- implement one of the two (or both):
-  <br/>
-  a.
-
-b.
+- Implement a timeout to show an announcement when the market open or/and close. The market opens at 9AM and closes at 5PM local time
 
 - optional bonus:
-
+  a. Implement a watcher to periodically check a specific currency conversion and alert the user when the value reaches a speicfic point. Let's say the user is interested in converting USD to Danish kroner but the rate today is very bad, 1 USD is 5 DKK. We wan to alert the user when 1 USD is 7 DKK so the user can convert with maximum gain
+  b. Watch currency updates and show a banner with the hotest currency exchange rate. I.e., currency conversion reaching the double value
 ---
 
 ### `JS3 week1` - Json, Apis, Fetch
 
-- refactor your code so that you ditch the static array of objects and instead fetch the currency rates data from an API
-- implement functionality to search for a specific currency
-- optional bonus:
-- ensure all the functionality is working smoothly after refactoring.
+- Refactor your code so that you use the currency rates dynamically from an API instead of the static array of objects. We will be providing the API for you to use :)
+- Implement functionality to search for a specific currency
+- Optional bonus:
+  - Ensure all the functionality is working smoothly after refactoring.
 
 ---
 
 ### `JS3 week2` - Promises, Async/Await
 
-- you used promise chaining last week - now rewrite the fetch in the "async await" approach.
-
+- [ ] You used promise chaining last week - now rewrite the fetch in the "async await" approach
+- [ ] Testing. Implement a test to ensure that the application will work as expected after the refactoring
 // TODO: more?
 
 ---
 
 ### `JS3 week3` - Classes, Promises advanced
 
-- [ ] rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
-- [ ] make improvements to the style or functionality or add additional functionality.
+- [ ] Rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
+- [ ] Make improvements to the style or functionality or add additional functionality.
 
 ---
 
