@@ -2,7 +2,8 @@
 
 # QUIZ APP
 
-// TODO: add storyline
+The most popular quiz app has become very expensive... so there came a startup that aspires to build a new one that will be better, cheaper to use and more fun!
+You join the startup as a developer and your task is to build a nice prototype of the product while the rest of the product team works to define what the final version will be.
 
 ## Weekly specs:
 
