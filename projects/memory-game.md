@@ -2,7 +2,7 @@
 
 # MEMORY GAME
 
-You joined an online game platformn startup and your task is to build one of the small classic games. <br/>
+You joined an online game platform startup and your task is to build one of the small classic games. <br/>
 You will build a Memory Game, where a user needs to flip all the cards in a game in pairs until they find all the matching pairs. You aspire to make the game smooth and pleasant, so the user is compelled to spend more time playing it.
 
 ## Weekly specs:
@@ -12,7 +12,7 @@ You will build a Memory Game, where a user needs to flip all the cards in a game
 You are provided with a picture and a card backside pattern picture (or pick your own).
 
 - [ ] display a single card on the page using DOM manipulation.
-- [ ] implement the functionality of fliping the card: on click, the card flips from showing the backside pattern to the picture and vice versa. Visual animation is optional and the exact look of it is up to you!
+- [ ] implement the functionality of flipping the card: on click, the card flips from showing the backside pattern to the picture and vice versa. Visual animation is optional and the exact look of it is up to you!
 
 <img src="../assets/memory-game-card-flip.gif" width="250px">
 
