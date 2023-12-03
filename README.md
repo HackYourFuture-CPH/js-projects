@@ -50,10 +50,10 @@ The main difference is that you will be on a different repository and that you w
 
 <hr>
 
-[Currency Converter](/projects/currency-converter/) <br/>
-[Memory Game](/projects/memory-game/)<br/>
-[Movie App](/projects/movie-app/)<br/>
-[Quiz App](/projects/quiz-app/)<br/>
-[Recipe App](/projects/recipe-app/)<br/>
+[Currency Converter](/projects/currency-converter/currency-converter.md) <br/>
+[Memory Game](/projects/memory-game/memory-game.md)<br/>
+[Movie App](/projects/movie-app/movie-app.md)<br/>
+[Quiz App](/projects/quiz-app/quiz-app.md)<br/>
+[Recipe App](/projects/recipe-app/recipe-app.md)<br/>
 
 <hr>
