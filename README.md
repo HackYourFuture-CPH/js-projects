@@ -45,3 +45,15 @@ You will work in your project repository for JS2 and JS3 (not the central homewo
 During JS2 and JS3, refer to the relevant [homework submission guide](/guides/weekly-submission-guide.md).
 
 The main difference is that you will be on a different repository and that you will merge the PR after implementing the review-based improvements, while all the technical steps are the same as always.
+
+<br/>
+
+<hr>
+
+[Currency Converter](/projects/currency-converter/) <br/>
+[Memory Game](/projects/memory-game/)<br/>
+[Movie App](/projects/movie-app/)<br/>
+[Quiz App](/projects/quiz-app/)<br/>
+[Recipe App](/projects/recipe-app/)<br/>
+
+<hr>
