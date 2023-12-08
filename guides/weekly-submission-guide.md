@@ -83,7 +83,7 @@
 
 <br/>
 
-2. When you have made changes to the code since the homework submission and review, push the changes and merge the PR`*`.
+2. When you have made changes to the code since the homework submission and review, push the changes and merge the PR.
 
 <br/>
 
