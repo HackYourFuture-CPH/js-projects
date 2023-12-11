@@ -8,7 +8,29 @@ You are a foood lover, a cooking enthusiast and you want to share your passion w
 
 ### `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
-You are provided with a recipe data object.
+Create a recipe object that has at least the id, name, description, a list of ingredients and a picture url.
+Or just use the below!
+
+```js
+const recipeObject = {
+  id: 1,
+  title: "Gløgg",
+  picture_url:
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
+  ingredients: [
+    { NAME: "Orange zest", AMOUNT: "0.5" },
+    { NAME: "Water", AMOUNT: "200 ml" },
+    { NAME: "Sugar", AMOUNT: "275 g" },
+    { NAME: "Whole cloves", AMOUNT: "5" },
+    { NAME: "Cinnamon sticks", AMOUNT: "2" },
+    { NAME: "Spice", AMOUNT: undefined },
+    { NAME: "Bottle of red wine", AMOUNT: "1" },
+    { NAME: "Raisins", AMOUNT: "100 g" },
+    { NAME: "Slipped Almonds", AMOUNT: "50 g" },
+  ],
+  description: "Mix everything, heat it, and you are good to go!",
+};
+```
 
 - [ ] Display a single recipe on the page using DOM manipulation.
 - [ ] Implement a form to add a new recipe with a minimum of 5 ingredients.
@@ -18,7 +40,8 @@ You are provided with a recipe data object.
 
 ### `JS2 week2` - Array functions, Arrow function
 
-You are provided with an array of recipe objects, that have at least an ID, a title, a picture url and a list of ingredients.
+Start with creating an array of recipe objects. Even a small one is perfectly enough, but go as big as you want!
+Continue with the format of the recipe object you used last week or improve it and refactor!
 
 - [ ] Traverse through the array of recipe objects and display all the recipe cards in a grid.
 - [ ] Implement functions to manipulate the array:

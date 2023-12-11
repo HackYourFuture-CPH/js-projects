@@ -10,7 +10,26 @@ Your way to impress is to not only build a nice-looking main movie list page, bu
 
 ### `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
-You are provided with a movie object with details such as ID, title, description, year, main actors, etc.
+Use a movie object with details such as ID, title, description, year, main actors, etc.
+
+It could be something like this:
+
+```js
+ {
+      id: 1,
+      title: 'Interstellar',
+      description:
+        'The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.',
+      movie_year: 2014,
+      director: "Christopher Nolan",
+      actors: ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine", "Casey Affleck", "Mackenzie Foy", "John Lithgow", "Ellen Burstyn", "Matt Damon"],
+      poster_url:
+        'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg',
+      price: '120.00',
+    },
+```
+
+Add whatever properties you think are relevant and that you want to display as the information on your future movie website!
 
 - [ ] design and implement the layout of the movie card via DOM manipulation.
 
@@ -25,7 +44,8 @@ You are provided with a movie object with details such as ID, title, description
 
 ### `JS2 week2` - Array functions, Arrow function
 
-You are provided with a mock list of movies (an array of objects).
+Start with creating an array of movie objects. Even a small one is perfectly enough, but go as big as you want!
+Continue with the format of the movie object you used last week or improve it and refactor!
 
 - [ ] traverse the movie array and display all the movies on the page in a grid via DOM manipulation.
 - [ ] manipulate the movie array, implementing these functions:

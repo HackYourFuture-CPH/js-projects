@@ -24,11 +24,44 @@ It is expected that your app will have at least these features and functionality
 - [ ] optional bonus: create a form to update existing currency conversion with a new rate.
       <br/>
 
+You currency rate object format could be something like this:
+
+```js
+{
+    "timestamp": 1519296206,
+    "base": "EUR",
+    "date": "2021-03-17",
+    "rates": {
+        "USD": 1.23396,
+    [...]
+    }
+}
+```
+
+The above would be how a brand new currency rate could look like (the first task).
+Then, after an update (th bonus task) it could look something like this:
+
+```js
+{
+    "timestamp": 1519296206,
+    "base": "EUR",
+    "date": "2021-03-17",
+    "rates": {
+        "USD": 1.23396,
+        "GBP": 0.882047,
+    [...]
+    }
+}
+```
+
 ---
 
 ### `JS2 week2` - Array functions, Arrow function
 
-- [ ] List: Traverse through a given array of the currency rate objects, and display them in a grid of items containing all the relevant details.
+Start with creating an array of currency rate objects. Even a small one is perfectly enough, but go as big as you want!
+Continue with the format of the object you used last week or improve it and refactor!
+
+- [ ] List: Traverse through your array of the currency rate objects, and display them in a grid of items containing all the relevant details.
 - [ ] Implement a function to find a specific currency rate, searching by the currency `from` or `to`.
 
 ---

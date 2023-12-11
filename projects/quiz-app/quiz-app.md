@@ -19,11 +19,28 @@ b. color the input for the "correct" answer option in green and the "wrong" ones
 
 - [ ] optional bonus: make sure the question is not longer than 140 characters.
 
+The format of the object of the quiz question, for example, could be something like this:
+
+```js
+const quizQuestion = {
+  id: 1,
+  question: "What is the capital of Denmark?",
+  options: [
+    { text: "Berlin", isCorrect: false },
+    { text: "Copenhagen", isCorrect: true },
+    { text: "Madrid", isCorrect: false },
+    { text: "Rome", isCorrect: false },
+  ],
+  explanation: "Copenhagen is the capital of Denmark.",
+};
+```
+
 ---
 
 ### `JS2 week2` - Array functions, Arrow function
 
-You are provided with an array of question objects.
+Start with creating an array of quiz question objects. Even a small one is perfectly enough, but go as big as you want!
+Continue with the format of the question object you used last week or improve it and refactor!
 
 - [ ] save the quiz question into an array when the form is submitted.
 

@@ -20,7 +20,8 @@ You are provided with a picture and a card backside pattern picture (or pick you
 
 ### `JS2 week2` - Array functions, Arrow function
 
-You are provided with an array of picture objects, that have at least an ID, a name, and a picture url.
+Start with creating an array of picture objects. Even a small one is perfectly enough, but go as big as you want! A picture object should ideally have at least an id, a name and a picture url.
+Continue with the format of the picture object you used last week or improve it and refactor!
 
 - [ ] generate a new array where each card object is added to it twice, but in a random order. Think about _doubling_ and _shuffling_ an array when you research how to complete this task.
 - [ ] traverse through the new array of picture objects and display all the cards in a grid.
