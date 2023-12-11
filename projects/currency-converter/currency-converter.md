@@ -24,7 +24,7 @@ It is expected that your app will have at least these features and functionality
 - [ ] optional bonus: create a form to update existing currency conversion with a new rate.
       <br/>
 
-You currency rate object format could be something like this:
+Your currency rate object format could be something like this:
 
 ```js
 {
@@ -39,7 +39,7 @@ You currency rate object format could be something like this:
 ```
 
 The above would be how a brand new currency rate could look like (the first task).
-Then, after an update (th bonus task) it could look something like this:
+Then, after an update (the bonus task) it could look something like this:
 
 ```js
 {

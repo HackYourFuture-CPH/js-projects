@@ -10,7 +10,7 @@ Your way to impress is to not only build a nice-looking main movie list page, bu
 
 ### `JS2 week1` - Browser environment, DOM manipulation, DOM event listeners
 
-Use a movie object with details such as ID, title, description, year, main actors, etc.
+Use a movie object with details such as id, title, description, year, main actors, etc.
 
 It could be something like this:
 
