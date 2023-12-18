@@ -62,7 +62,9 @@ Start with creating an array of currency rate objects. Even a small one is perfe
 Continue with the format of the object you used last week or improve it and refactor!
 
 - [ ] List: Traverse through your array of the currency rate objects, and display them in a grid of items containing all the relevant details.
-- [ ] Implement a function to find a specific currency rate, searching by the currency `from` or `to`.
+- [ ] Implement a function to find a specific currency rate, searching by the currency `from` or `to`. <br/>
+      Basically, it is just a search function! With a twist, though, because you have both the `from` and the `to` fields.
+      As a user, I want to find a specific rate, but I am too lazy to scan through all the rates with my eyes, I want to be able to type in and search!
 
 ---
 
