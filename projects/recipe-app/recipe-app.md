@@ -59,7 +59,8 @@ Continue with the format of the recipe object you used last week or improve it a
 
 ### `JS3 week1` - Json, Apis, Fetch
 
-- [ ] Refactor your code so that you ditch the static array of objects and instead fetch the recipes data from an API.
+- [ ] Follow the [API creation guide](/guides/making-your-API-guide.md) to make your own API that you will use from now on.
+- [ ] Refactor your code so that you ditch the static array of objects and instead fetch the recipes data from your API.
 - [ ] Implement functionality to search for an ingredient, fetch and display the relevant ingredient prices for a recipe
 - [ ] Ensure all the functionality is working smoothly after refactoring.
 

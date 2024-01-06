@@ -41,7 +41,8 @@ Continue with the format of the picture object you used last week or improve it 
 
 ### `JS3 week1` - Json, Apis, Fetch
 
-- [ ] refactor your code so that you ditch the static array of objects and instead fetch the cards data from the provided API (advanced: use the Giphy API so that your card pictures are gifs!).
+- [ ] follow the [API creation guide](/guides/making-your-API-guide.md) to make your own API that you will use from now on.
+- [ ] refactor your code so that you ditch the static array of objects and instead fetch the cards data from your API.
 - [ ] ensure all the functionality is working smoothly after refactoring.
 
 ---

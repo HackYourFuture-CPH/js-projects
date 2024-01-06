@@ -80,7 +80,8 @@ Continue with the format of the object you used last week or improve it and refa
 
 ### `JS3 week1` - Json, Apis, Fetch
 
-- [ ] Refactor your code so that you use the currency rates dynamically from an API instead of the static array of objects. We will be providing the API for you to use :)
+- [ ] Follow the [API creation guide](/guides/making-your-API-guide.md) to make your own API that you will use from now on.
+- [ ] Refactor your code so that you use the currency rates dynamically from your API instead of the static array of objects.
 - [ ] Implement functionality to search for a specific currency.
 - [ ] Ensure all the functionality is working smoothly after refactoring.
 

@@ -66,7 +66,8 @@ Here you will develop some features that will differentiate your movie platform 
 
 ### `JS3 week1` - Json, Apis, Fetch
 
-- [ ] refactor your code so that you ditch the static array of objects and instead fetch the movies data from an API.
+- [ ] follow the [API creation guide](/guides/making-your-API-guide.md) to make your own API that you will use from now on.
+- [ ] refactor your code so that you ditch the static array of objects and instead fetch the movies data from your API.
 - [ ] ensure all the functionality is working smoothly after refactoring.
 
 ---
