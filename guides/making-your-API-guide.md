@@ -40,7 +40,9 @@ Your URL for FETCH will be the raw content of the JSON file that you added. Head
 
 ![Access the raw content](/assets/API-guide-3.png)
 
-Copy the url and use it for fetching the data.
+Copy the URL and use it for fetching the data.
+
+![Copy the URl](/assets/API-guide-4.png)
 
 Now you have a publicly hosted API! To access this information, all you need to do is make an API call like you normally would (FETCH), parse that data (iterate through an array of objects), and then use the data in whatever way you need for your project!
 
