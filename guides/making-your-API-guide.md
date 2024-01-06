@@ -40,6 +40,8 @@ Your URL for FETCH will be the raw content of the JSON file that you added. Head
 
 ![Access the raw content](/assets/API-guide-3.png)
 
+Copy the url and use it for fetching the data.
+
 Now you have a publicly hosted API! To access this information, all you need to do is make an API call like you normally would (FETCH), parse that data (iterate through an array of objects), and then use the data in whatever way you need for your project!
 
 ❗Note that in Vanilla JS (which is what you are learning now), you cannot access the fetched data outside of your fetch function. So you will most probably need to move your whole code from before into the function or call the necessary functions from within the FETCH function, something like this:
