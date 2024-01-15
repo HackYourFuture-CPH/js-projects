@@ -94,10 +94,11 @@ Continue with the format of the object you used last week or improve it and refa
 
 ---
 
-### `JS3 week3` - Classes, Promises advanced
+### `JS3 week3` - Classes, Revision and Presentation of projects
 
 - [ ] Rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
 - [ ] Make improvements to the style or functionality or add additional functionality.
+- [ ] Prepare to showcase your project to external people, talk through your code and explain what you have implemented.
 
 ---
 
