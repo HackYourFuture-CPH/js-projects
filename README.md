@@ -36,7 +36,7 @@ First, you will pick a project idea (see the "[projects](url)" folder). Each wee
 
 `JS3 week2` - Promises, Async/Await
 
-`JS3 week3` - Classes, Promises advanced
+`JS3 week3` - Classes, Revision and Presentation of projects
 
 <br/>
 
