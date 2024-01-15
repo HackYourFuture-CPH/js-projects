@@ -70,8 +70,8 @@ Continue with the format of the recipe object you used last week or improve it a
 
 - [ ] You used promise chaining last week - now rewrite the fetch in the "async await" approach.
 - [ ] Use the fuunctions created in preivous week and build functionality to:
-- find a recipe by a provided search word to check in the recipe title.
-- sort the recipe array by the amount of ingredients needed.
+- [ ] Find a recipe by a provided search word to check in the recipe title.
+- [ ] Sort the recipe array by the amount of ingredients needed.
 
 ---
 
