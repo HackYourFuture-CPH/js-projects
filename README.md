@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo has been integrated and updated into [JavaScript](https://github.com/HackYourFuture-CPH/javaScript/), and is therefore now archived.
+
 # WHAT
 
 During the JS2 and JS3 modules, you will be working on a project instead of your weekly homework assignments. Each week, you will be required to add new features to your project. By the end of JS3, you will have built an actual app using your newly gained knowledge and coding skills!
